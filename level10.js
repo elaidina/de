@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Tegning er vanskelig.'
+      img: 'Zeichnen ist schwierig.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hvordan bygger du et hus?'
+      img: 'Wie baut man ein Haus?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Huset består av vegger, tak, vinduer, skorstein, gjerde og dør.'
+      img: 'Das Haus besteht aus Wänden, einem Dach, Fenstern, einem Schornstein, einem Zaun und einer Tür.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Den blå ballen er større enn den røde ballen.'
+      img: 'Der blaue Ball ist größer als der rote Ball.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Hvilken ball er størst?'
+      img: 'Welcher Ball ist der größte?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jeg vil gjerne lære en engelsk sang.'
+      img: 'Ich möchte ein englisches Lied lernen..'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vi kan ringe til Mary.'
+      img: 'Wir können Mary anrufen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hun er en veldig god sangerinne.'
+      img: 'Sie ist eine sehr gute Sängerin.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hør, kjenner du denne sangen?'
+      img: 'Hör mal, kennst du dieses Lied?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det ligger en strålende bok i hyllen.'
+      img: 'Da steht ein geniales Buch im Regal.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jeg leser ofte denne boken.'
+      img: 'Ich lese dieses Buch oft.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jeg er for kort til å rekke boken i hyllen.'
+      img: 'Ich bin zu klein, um das Buch im Regal zu erreichen.'
     }
   ]
 

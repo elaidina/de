@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jeg er høyere og større enn ham.'
+      img: 'Ich bin größer und dicker als er.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Men han er svakere enn meg.'
+      img: 'Aber er ist schwächer als ich.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ikke overdriv.'
+      img: 'Übertreibe nicht.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Hvordan blir været i morgen?'
+      img: 'Wie wird das Wetter morgen?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Det skal regne og være kaldt.'
+      img: 'Es sollte regnen und kalt sein.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Skal jeg ta en paraply?'
+      img: 'Soll ich einen Regenschirm mitnehmen?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vennligst, ikke glem å ta med en paraply eller en regnfrakk.'
+      img: 'Bitte vergessen Sie nicht, einen Regenschirm oder Regenmantel mitzunehmen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Drikk mye te når du er forkjølet.'
+      img: 'Trink viel Tee, wenn dir kalt ist.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Føler du deg syk?'
+      img: 'Fühlst du dich krank?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jeg har vært syk i to uker.'
+      img: 'Ich bin seit zwei Wochen krank.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Tørk håret med dette håndkleet.'
+      img: 'Trockne dein Haar mit diesem Handtuch.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Du må holde deg varm.'
+      img: 'Du musst dich warm halten.'
     }
   ]
 
