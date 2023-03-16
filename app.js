@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Hva heter du?"
+      img: "Wie heißt du?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Hvordan har du det?"
+      img: "Wie geht es dir?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Jeg har det bra."
+      img: "Mir geht's gut."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Hva er dette?"
+      img: "Was ist das?"
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Hvor er du?"
+      img: "Wo bist du?"
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: "Jeg er hjemme."
+      img: "Ich bin zu Hause."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Hvor skal du?"
+      img: "Wohin gehst du?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: "Jeg er så begeistret!"
+      img: "Ich bin so aufgeregt!"
     },
     {
       name: '9',
@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: "Hvor gammel er du?"
+      img: "Wie alt bist du?"
     },
     {
       name: '10',
-      img: "Jeg er 7 år gammel."
+      img: "Ich bin 7 Jahre alt."
     },
     {
       name: '10',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: "Har du en søster eller bror?"
+      img: "Hast du eine Schwester oder einen Bruder?"
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Hvordan er været i dag?"
+      img: "Wie ist das Wetter heute?"
     }
   ]
 
