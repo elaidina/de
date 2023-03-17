@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jeg liker sommeren fordi pappa kjøper mye is til meg.'
+      img: 'Ich mag den Sommer, weil Papa mir viel Eis kauft.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Skogen er veldig fargerik om høsten.'
+      img: 'Der Wald ist im Herbst sehr bunt.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Åkrene, åsene, husene og trærne er dekket av snø om vinteren.'
+      img: 'Die Felder, Hügel, Häuser und Bäume sind im Winter mit Schnee bedeckt.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi lager en snømann med vennene mine.'
+      img: 'Wir bauen mit meinen Freunden einen Schneemann.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Tanten min mater hønene og ender med mais og hvete.'
+      img: 'Meine Tante füttert ihre Hühner und Enten mit Mais und Weizen.'
     },
     {
       name: '6',

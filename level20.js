@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'eg vil gjerne plukke noen blomster til mamma.'
+      img: 'Ich würde gerne ein paar Blumen für meine Mutter pflücken.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Eplene er modne og runde.'
+      img: 'Die Äpfel sind reif und rund.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jeg fant mange gaver under juletreet.'
+      img: 'Ich habe viele Geschenke unter dem Weihnachtsbaum gefunden.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jeg liker ikke å stryke.'
+      img: 'Ich bügele nicht gerne.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jeg er for opptatt i dag.'
+      img: 'Ich bin heute zu beschäftigt.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Se rundt deg.'
+      img: 'Schau dich um.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hvor mange interessante ting kan du se?'
+      img: 'Wie viele interessante Dinge kannst du sehen?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jeg kjenner mange mennesker, dyr, hus, trær og blomster.'
+      img: 'Ich kenne viele Menschen, Tiere, Häuser, Bäume und Blumen.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: '"Men vet du alt?'
+      img: 'Aber weißt du alles?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ingen vet alt.'
+      img: 'Niemand weiß alles.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Noen voksne kan mange sanger for barn.'
+      img: 'Manche Erwachsenen kennen viele Lieder für Kinder.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Noen mennesker kan ikke reparere biler."
+      img: "Manche Leute können keine Autos reparieren."
     }
   ]
 
