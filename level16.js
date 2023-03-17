@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'De gleder seg til å se bestemoren sin.'
+      img: 'Sie freuen sich darauf, ihre Oma zu sehen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Landsbyen hennes er ikke langt fra byen.'
+      img: 'Ihr Dorf ist nicht weit von der Stadt entfernt.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Vi kommer sammen med dem.'
+      img: 'Wir kommen mit ihnen mit.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Kan du vente på oss?'
+      img: 'Kannst du auf uns warten?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jeg må spørre alle.'
+      img: 'Ich muss alle fragen.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vi skal gå gjennom byen.'
+      img: 'Wir werden durch die Stadt gehen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Vi vil kunne se massevis av biler, butikker og store hus."
+      img: "Wir werden viele Autos, Geschäfte und große Häuser sehen können."
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det er mye folk i gatene.'
+      img: 'Auf den Straßen gibt es viele Menschen.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Vis meg veien, vær så snill.'
+      img: 'Zeigen Sie mir bitte den Weg.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Gå rett og ta deretter til venstre.'
+      img: 'Gehen Sie geradeaus und biegen Sie dann links ab.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ta til høyre ved den gigantiske broen.'
+      img: 'Biegen Sie an der riesigen Brücke rechts ab.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det er favorittbutikken min til høyre og en kirke til venstre.'
+      img: 'Rechts ist mein Lieblingsgeschäft und links eine Kirche.'
     }
   ]
 

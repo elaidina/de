@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Det er en bro over elven.'
+      img: 'Es gibt eine Brücke über den Fluss.'
     },
     {
       name: '2',

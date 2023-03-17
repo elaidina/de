@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Vi nærmer oss skogen.'
+      img: 'Wir nähern uns dem Wald..'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Vi kan ikke gå med bil inn i skogen.'
+      img: 'Wir können nicht mit dem Auto in den Wald fahren.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jeg trives veldig godt her.'
+      img: 'Mir gefällt es hier sehr gut.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi kan leke på enga.'
+      img: 'Wir können auf der Wiese spielen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Se, det er en sommerfugl på den blomsten.'
+      img: 'Schau, da ist ein Schmetterling auf dieser Blume.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vil du plukke sopp og jordbær?'
+      img: 'Möchtest du Pilze und Erdbeeren pflücken?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vennen min bor i et hus nær elven.'
+      img: 'Mein Freund lebt in einem Haus in der Nähe des Flusses.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Han leker med hunden sin hver dag.'
+      img: 'Er spielt jeden Tag mit seinem Hund.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ser du noen ganger på hester og kuer på enga?'
+      img: 'Beobachten Sie manchmal Pferde und Kühe auf der Wiese?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jeg er redd for den store hunden.'
+      img: 'Ich habe Angst vor diesem großen Hund.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jeg vil vise deg noe.'
+      img: 'Ich will Dir etwas zeigen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Vil du se ut gris og smågris?'
+      img: 'Willst du Schweine und Ferkel sehen?'
     }
   ]
 

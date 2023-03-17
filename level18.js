@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'De er veldig skitne og fete, men også morsomme.'
+      img: 'Sie sind sehr schmutzig und fett, aber auch lustig.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'De liker å leke i gjørma.'
+      img: 'Sie spielen gerne im Matsch.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Barna liker å leke i hagen.'
+      img: 'Die Kinder spielen gerne im Hof.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'De gleder seg til å lage en hytte.'
+      img: 'Sie freuen sich darauf, eine Hütte zu bauen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'De trenger en hammer, spiker og planker.'
+      img: 'Sie brauchen einen Hammer, Nägel und Bretter.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jeg liker å hjelpe dem med å hamre plankene.'
+      img: 'Ich helfe ihnen gerne, die Bretter zu hämmern.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hjelp oss heller med å hamre spiker.'
+      img: 'Helfen Sie uns lieber, die Nägel einzuschlagen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hvordan liker du den ferdige hytta?'
+      img: 'Wie gefällt dir die fertige Hütte?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Det er den beste hytta noensinne.'
+      img: 'Es ist die beste Hütte aller Zeiten..'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det er en deilig varm dag.'
+      img: 'Es ist ein herrlich heißer Tag.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Barna er ved elvebredden.'
+      img: 'Die Kinder sind am Flussufer.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det er mye sand overalt.'
+      img: 'Überall ist viel Sand.'
     }
   ]
 
