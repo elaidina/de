@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ikke stå i nærheten av komfyren.'
+      img: 'Stell dich nicht in die Nähe des Herdes.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Det er veldig varmt og du kan brenne deg.'
+      img: 'Es ist sehr heiß und Sie könnten sich verbrennen.'
     },
     {
       name: '3',

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Det var nesten tid for te, så de gikk alle innendørs for å vaske hendene.'
+      img: 'Es war fast Zeit für den Tee, also gingen sie alle nach drinnen, um sich die Hände zu waschen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Tom løsnet trappeporten og Josie hjalp søsteren hennes med å klatre opp trappene.'
+      img: 'Tom hat das Treppengitter aufgemacht und Josie hat ihrer Schwester geholfen, die Treppe hinaufzusteigen.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'eg passet på at vannet ikke var for varmt.'
+      img: 'Ich habe darauf geachtet, dass das Wasser nicht zu heiß ist.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi vasket alle hendene våre.'
+      img: 'Wir haben uns alle die Hände gewaschen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jeg ville se ut av baderomsvinduet.'
+      img: 'Ich wollte aus dem Badezimmerfenster schauen.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Wees voorzichtig alsjeblieftVær forsiktig, vær så snill.'
+      img: 'Sei bitte vorsichtig.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Det er ikke trygt å lene seg ut av vinduer.'
+      img: 'Es ist nicht sicher, sich aus Fenstern zu lehnen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jeg hadde ikke tenkt.'
+      img: 'Das hatte ich nicht vor.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Tom løp ut av badet og holdt døren lukket.'
+      img: 'Tom ist aus dem Badezimmer gerannt und hat die Tür zugehalten.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Slipp meg ut, Tom.'
+      img: 'Lass mich raus, Tom.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Det er farlig å leke med dører.'
+      img: 'Es ist gefährlich, mit Türen zu spielen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Noens fingre kan bli fanget.'
+      img: 'Jemand könnte sich die Finger einklemmen.'
     }
   ]
 
