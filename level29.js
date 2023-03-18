@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Jeg har funnet babyene dine."
+      img: "Ich habe deine Babys gefunden."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ikke gjør det!'
+      img: 'Tu das nicht!'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Når det er rødt, må vi stoppe og vente til det er grønt igjen.'
+      img: 'Wenn es rot ist, müssen wir anhalten und warten, bis es wieder grün ist.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Hold godt i hendene mine.'
+      img: 'Halte dich fest an meinen Händen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Dette er en veldig trafikkert vei.'
+      img: 'Das ist eine sehr stark befahrene Straße.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vi må finne et trygt kryss.'
+      img: 'Wir müssen eine sichere Überfahrt finden.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Se, det er trafikklys.'
+      img: 'Schau mal, da sind Ampeln.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jeg trykket på knappen og snart stoppet trafikken.'
+      img: 'Ich drückte auf den Knopf und bald hörte der Verkehr auf.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Den grønne mannen viste oss at vi skulle krysse nå.'
+      img: 'Das grüne Männchen hat uns gezeigt, dass wir jetzt überqueren sollten.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Han piper for å skynde oss.'
+      img: 'Er hat gepiepst, um uns zur Eile zu bringen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hun var glad for å se vennen sin.'
+      img: 'Sie war erfreut, ihre Freundin zu sehen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De spilte fotball i hagen.'
+      img: 'Sie haben im Garten Fußball gespielt.'
     }
   ]
 

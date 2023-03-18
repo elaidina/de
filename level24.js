@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Han sier at jeg putter mer frukt i magen enn i kurven.'
+      img: 'Er sagt, dass ich mehr Obst in meinen Bauch stecke als in den Korb.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Om vinteren lager bestefar et fuglehus og henger det i treet.'
+      img: 'Im Winter baut Opa ein Vogelhaus und hängt es in den Baum.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Han legger litt mat der, slik at fuglene ikke blir sultne i den kalde vinteren.'
+      img: 'Er legt dort etwas Futter hin, damit die Vögel im kalten Winter nicht hungern.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi må beskytte dem fordi de hjelper oss.'
+      img: 'Wir müssen sie beschützen, weil sie uns helfen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'De spiser insekter.'
+      img: 'Sie fressen Insekten.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Noen insekter kan skade plantene.'
+      img: 'Einige Insekten können die Pflanzen schädigen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hvorfor har vi ikke is til frokost?'
+      img: 'Warum haben wir kein Eis zum Frühstück?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det snør og det blåser kald vind.'
+      img: 'Es schneit und es weht ein kalter Wind.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Teen er for bitter.'
+      img: 'Der Tee ist zu bitter.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Sitronsaft gjør den syrligere.'
+      img: 'Zitronensaft macht es saurer.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jeg spiser frokosten min opp og går ut.'
+      img: 'Ich esse mein Frühstück auf und gehe aus.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Isen er glatt.'
+      img: 'Das Eis ist glatt.'
     }
   ]
 

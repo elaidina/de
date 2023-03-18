@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Golvet og veggene er våte.'
+      img: 'Der Boden und die Wände sind nass.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hun adlyder aldri.'
+      img: 'Sie gehorcht nie.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Bestefar må trekke frem en kjempenepe.'
+      img: 'Opa muss eine riesige Rübe ausreißen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Han drar og drar kålroten, men han kan ikke trekke den ut.'
+      img: 'Er zieht und zieht die Rübe, aber er kann sie nicht herausziehen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Han må ringe barnebarnet sitt.'
+      img: 'Er muss seinen Enkel anrufen.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'De trekker til kålroten kommer ut.'
+      img: 'Sie ziehen, bis die Rübe herauskommt.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'De faller alle på bakken og ler.'
+      img: 'Sie fallen alle auf den Boden und lachen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hvorfor kan ikke dyr snakke?'
+      img: 'Warum können Tiere nicht sprechen?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De kan, men vi forstår dem ikke.'
+      img: 'Sie können, aber wir verstehen sie nicht.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Den høna forteller historier til kyllingene sine.'
+      img: 'Diese Henne erzählt ihren Küken Geschichten.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hva handler historien om?'
+      img: 'Um was geht es in der Geschichte?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Fortell meg historien, vær så snill.'
+      img: 'Erzähl mir bitte die Geschichte.'
     }
   ]
 

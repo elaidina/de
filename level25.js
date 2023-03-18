@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ikke fall.'
+      img: 'Fall nicht.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Gå sakte.'
+      img: 'Geh langsam.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Vennene mine lager en snømann.'
+      img: 'Meine Freunde bauen einen Schneemann.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jeg har bursdag om vinteren.'
+      img: 'Mein Geburtstag ist im Winter.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Folk har bursdag bare en gang i året.'
+      img: 'Die Leute haben nur einmal im Jahr Geburtstag.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Det er synd.'
+      img: 'Es ist schade.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Datteren min ble født på torsdag.'
+      img: 'Meine Tochter wurde am Donnerstag geboren.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ingen vet hvorfor katten er så feit.'
+      img: 'Niemand weiß, warum die Katze so fett ist.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Den lille jenta kan kneppe genseren, men hun kan ikke glide opp jakken. '
+      img: 'Das kleine Mädchen kann den Pullover zuknöpfen, aber sie kann den Reißverschluss der Jacke nicht schließen. '
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Hun liker å leke med vann på badet.'
+      img: 'Sie spielt gerne mit Wasser im Badezimmer.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hun vasker sokkene, skjorten og pysjamasen.'
+      img: 'Sie wäscht ihre Socken, ihr Hemd und ihren Schlafanzug.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det er mye vann overalt.'
+      img: 'Überall ist viel Wasser..'
     }
   ]
 

@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Hun heller litt melk i ints bolle.'
+      img: 'Sie gießt etwas Milch in ihre Schüssel.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'De små kattungene er søte og morsomme.'
+      img: 'Die kleinen Kätzchen sind süß und lustig.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'De legger alltid potene i bollen og søler melken.'
+      img: 'Sie stecken immer ihre Pfoten in die Schüssel und verschütten die Milch.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Onkelen min er veldig hendig.'
+      img: 'Mein Onkel ist sehr praktisch.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Han planter grønnsaker og blomster.'
+      img: 'Er pflanzt Gemüse und Blumen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Bestemor lager veldig godt syltetøy og stuet frukt.'
+      img: 'Oma macht sehr gute Marmelade und Kompott.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jeg hjelper bestefar med å plukke epler, pærer, druer og plommer.'
+      img: 'Ich helfe Opa beim Pflücken von Äpfeln, Birnen, Weintrauben und Pflaumen.'
     }
   ]
 
