@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Å nei, jeg har sølt melken min.'
+      img: 'Oh nein, ich habe meine Milch verschüttet.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Tom gikk for å hente en mopp fra vaskeskapet.'
+      img: 'Tom holte einen Mopp aus dem Putzschrank.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Inne i skapet var alt vi trenger for å holde huset rent.'
+      img: 'In dem Schrank waren alle Dinge, die wir brauchen, um das Haus sauber zu halten.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'For en ot av flasker!'
+      img: 'Was für eine Menge Flaschen!'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jeg holder skapdøren låst.'
+      img: 'Ich halte die Schranktür verschlossen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Etter te så vi en film på TV.'
+      img: 'Nach dem Tee haben wir uns einen Film im Fernsehen angeschaut.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Katten lekte på gulvet.'
+      img: 'Die Katze hat auf dem Boden gespielt.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Katten har en liten leke.'
+      img: '"Die Katze hat ein kleines Spielzeug.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Spytt Det ut!'
+      img: 'Spuck es aus!'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Du kan svelge den og kvele.'
+      img: 'Du könntest es verschlucken und daran ersticken.'
     }
   ]
 

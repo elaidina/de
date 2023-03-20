@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Den sitter fast.'
+      img: 'Es steckt fest.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Han gjør det han kan for å tette gapet.'
+      img: 'Er tut, was er kann, um die Lücke zu schließen.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Problemet er at glasset ditt er for tynt.'
+      img: 'Das Problem ist, dass dein Glas zu dünn ist.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Kjør sakte tilbake.'
+      img: 'Fahr langsam zurück.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Sett ned i svingene.'
+      img: 'Mach in den Kurven langsamer.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Han kommer til å krasje.'
+      img: 'Er wird abstürzen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'For mye uflaks.'
+      img: 'Was für eine Menge Pech.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hvis bare det regnet ikke hadde dryppet i teen hans.'
+      img: 'Wenn dieser Regen nur nicht in seinen Tee getropft wäre.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Han glemte å skru av badekranen.'
+      img: 'Er hat vergessen, seinen Wasserhahn in der Badewanne abzustellen.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Denne boken tilhører meg.'
+      img: 'Das buch gehört mir.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jeg må gå til tannlegen.'
+      img: 'Ich muss zum Zahnarzt.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Denne boken tilhører ham.'
+      img: 'Dieses Buch gehört ihm.'
     }
   ]
 

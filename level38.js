@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Hun la en engangsmaske over nesen og munnen.'
+      img: 'Sie hat sich eine Einwegmaske über Nase und Mund gelegt.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hva er det for?'
+      img: 'Wofür ist das?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Slik at jeg ikke puster over deg.'
+      img: 'Damit ich dich nicht anhauche.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Det er din tur nå.'
+      img: 'Du bist jetzt dran.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Hun fant et lite hul i en av tennene til Tom.'
+      img: 'Sie hat ein kleines Loch in einem von Toms Zähnen gefunden.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jeg skal rense det hullet og fylle det.'
+      img: 'Ich werde dieses Loch reinigen und eine Füllung hinein tun.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Det vil stoppe matbiter som kommer inn og blir ekle.'
+      img: 'Es wird verhindern, dass Essensreste hineinkommen und unangenehm werden.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Sugerøret i Toms munn laget morsomme sugelyder.'
+      img: 'Das Saugrohr in Toms Mund machte komische Sauggeräusche.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Så brukte hun en drill for å rense ut hullet i Toms tann.'
+      img: 'Dann benutzte sie einen flinken Bohrer, um das Loch in Toms Zahn zu säubern.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Sykepleieren ga Tom et glass rosa vann for å skylle munnen hennes.'
+      img: 'Die Krankenschwester hat Tom ein Glas rosa Wasser gegeben, um ihren Mund auszuspülen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Tannlegen tørket hullet med en liten luftblåser, slik at fyllingen skulle feste seg tett inni.'
+      img: 'Der Zahnarzt hat das Loch mit einem kleinen Luftgebläse getrocknet, damit die Füllung innen festsitzt.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Sykepleieren blandet en bitteliten bit sølvfyll.'
+      img: 'Die Krankenschwester hat ein bisschen Silberfüllung gemischt.'
     }
   ]
 

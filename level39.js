@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Tom så på henne.'
+      img: 'Tom hat sie beobachtet.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mrs White dyttet sølvfilet inn i hullet på Toms tann.'
+      img: 'Mrs White hat die Silberfeile in das Loch von Toms Zahn geschoben.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Hun presset den ned og gjorde den helt jevn.'
+      img: 'Sie drückte es nach unten und machte es perfekt glatt.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'God som ny!'
+      img: 'So gut wie neu!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Gjorde det vondt?'
+      img: 'Hat es wehgetan?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Drillen var støyende.'
+      img: 'Der Bohrer war laut.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Men det gjorde ikke vondt.'
+      img: 'Aber es tat nicht weh.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Dere har begge gode tenner.'
+      img: 'Ihr habt beide gute Zähne.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hold dem sånn.'
+      img: 'Lass sie so.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Spis mye forskjellig mat.'
+      img: 'Essen Sie viele verschiedene Lebensmittel.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Men husk, søt mat kan skade tennene dine, så ikke spis dem for ofte.'
+      img: 'Aber denken Sie daran, dass süße Speisen Ihren Zähnen schaden können, also essen Sie sie nicht zu oft.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Glem aldri å rense tennene om morgenen og ved sengetid med en floride tannkrem."
+      img: "Vergiss nie, deine Zähne morgens und vor dem Schlafengehen mit einer fluoridhaltigen Zahnpasta zu putzen."
     }
   ]
 

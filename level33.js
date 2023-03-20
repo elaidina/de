@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Pappa kom for å fange oss i bilen sin.'
+      img: 'Papa hat uns mit seinem Auto abgeholt.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Han satte oss i sikkerhetssetene og festet sikkerhetsbeltene.'
+      img: 'Er hat uns in unsere Sicherheitssitze gesetzt und unsere Sicherheitsgurte angelegt.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Har dere trivdes?'
+      img: 'Hast du dich amüsiert?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jeg reddet livet til Tom.'
+      img: 'Ich habe Tom das Leben gerettet.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Bra gjort.'
+      img: 'Gut gemacht.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Snu siden.'
+      img: 'Jetzt blättere um.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hjelp meg å løse gåten.'
+      img: 'Hilf mir, das Rätsel zu lösen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Peke på de tingene som kan være farlige.'
+      img: 'Zeigen Sie auf die Dinge, die gefährlich sein könnten.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Dette er et hjemsøkt hus.'
+      img: 'Das ist ein Spukhaus.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det var en gang en jente.'
+      img: 'Es war einmal ein Mädchen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hun gikk for å bo i dette store gamle huset.'
+      img: 'Sie zog in dieses große alte Haus, um dort zu leben.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det var et fantastisk sted.'
+      img: 'Es war ein herrlicher Ort.'
     }
   ]
 
