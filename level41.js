@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'På vei hjem gikk de forbi en søtbutikk.'
+      img: 'Auf dem Heimweg kamen sie an einem Süßwarenladen vorbei.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jeg vil ha litt søtsaker, men jeg vil ikke ha tannverk som Tom.'
+      img: 'Ich hätte gerne ein paar Süßigkeiten, aber ich will keine Zahnschmerzen wie Tom.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Det er andre smakfulle ting som er bedre for deg.'
+      img: 'Es gibt andere schmackhafte Dinge, die besser für dich sind.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Så de kjøpte to knasende epler av grønnsakshandleren.'
+      img: 'Also haben sie beim Gemüsehändler zwei knackige Äpfel gekauft.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Så dro de til apoteket for å kjøpe nye tannbørster..'
+      img: 'Dann sind sie in die Apotheke gegangen, um neue Zahnbürsten zu kaufen.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Kjemikeren fortalte dem om å avsløre tabletter.'
+      img: 'Der Apotheker hat ihnen von der Offenlegung von Tabletten erzählt.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Bare tygg en halv tablett, og skyll deretter munnen med vann.'
+      img: 'Kauen Sie einfach eine halbe Tablette und spülen Sie dann Ihren Mund mit Wasser aus.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Han forklarte.'
+      img: 'Er erklärte.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De delene av tennene dine som trenger mest rengjøring vil bli rosa.'
+      img: 'Die Teile Ihrer Zähne, die am dringendsten gereinigt werden müssen, werden rosa.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Vi ville se morsomt ut på lekeplassen med rosa tenner.'
+      img: 'Wir würden lustig aussehen, wenn wir mit rosa Zähnen auf den Spielplatz gingen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Kjemikeren lo.'
+      img: 'Der Chemiker lachte.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Når det ikke er rosa igjen, vet du at tennene dine er rene.'
+      img: 'Wenn kein Rosa mehr übrig ist, weißt du, dass deine Zähne sauber sind.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Så snart han kom hjem, prøvde han ut den nye tannbørsten sin.'
+      img: 'Sobald er nach Hause kam, probierte er seine neue Zahnbürste aus.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Michelle var veldig spent.'
+      img: 'Michelle war sehr aufgeregt.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Det skulle snart være jul, så hun skrev sine ønsker.'
+      img: 'Es würde bald Weihnachten sein, also schrieb sie ihre Wünsche auf.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi tok på oss hatter, kåper, skjerf og hansker fordi det var kaldt ute.'
+      img: 'Wir haben unsere Hüte, Mäntel, Schals und Handschuhe angezogen, weil es draußen kalt war.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Det var mange familier som valgte juletrær på Hagesenteret.'
+      img: 'Viele Familien haben sich im Gartencenter Weihnachtsbäume ausgesucht.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Hvilket tre skal vi få?'
+      img: 'Welchen Baum sollen wir nehmen?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jeg liker den fordi den er veldig stor.'
+      img: 'Ich mag das, weil es wirklich groß ist.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Den er for stor til å få plass i bilen vår.'
+      img: 'Es ist zu groß, um in unser Auto zu passen.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De ble enige om et veldig fint mindre tre.'
+      img: 'Sie haben sich auf einen sehr schönen kleineren Baum geeinigt.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Pappa hentet en vogn til treet.'
+      img: 'Papa hat einen Wagen für den Baum geholt.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ungene hjalp til med å dytte trallen.'
+      img: 'Die Kinder haben geholfen, den Trolley zu schieben.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De kunne velge to nye tredekorasjoner.'
+      img: 'Sie konnten sich zwei neue Baumdekorationen aussuchen.'
     }
   ]
 

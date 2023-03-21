@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Bare ikke glem å henge opp strømpene.'
+      img: 'Vergiss nur nicht deine Strümpfe aufzuhängen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Vi legger igjen en gulrot til reinen din.'
+      img: 'Wir werden eine Karotte für Ihr Rentier übrig lassen.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mamma kikket inn for å se hvordan det gikk med dem.'
+      img: 'Mama hat reingeschaut, um zu sehen, wie es ihnen geht.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Har de vært gode?'
+      img: 'Waren sie gut?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Hun spurte julenissen.'
+      img: 'Sie hat den Weihnachtsmann gefragt.'
     },
     {
       name: '6',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Tusen takk.'
+      img: 'Vielen Dank.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Så snart han var tilbake i bilen åpnet han gaven sin.'
+      img: 'Sobald er wieder im Auto war, öffnete er sein Geschenk.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jeg har solbriller!'
+      img: 'Ich habe eine Sonnenbrille!'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Han var veldig fornøyd.'
+      img: 'Er hat sich sehr gefreut.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det snødde mye mens han sov.'
+      img: 'Es hat viel geschneit, während er schlief.'
     }
   ]
 

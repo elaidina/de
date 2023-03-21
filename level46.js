@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Sokkene hans hang i enden av sengen hans.'
+      img: 'Seine Strümpfe hingen am Ende seines Bettes.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mamma hadde lagt en gulrot til Rudolph på kommoden hans.'
+      img: 'Mama hat Rudolph eine Karotte auf die Kommode gestellt.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jeg skal holde meg våken for å hilse på julenissen.'
+      img: 'Ich bleibe wach, um dem Weihnachtsmann Hallo zu sagen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'En time senere sov han allerede.'
+      img: 'Eine Stunde später war er schon eingeschlafen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Han våknet tidlig om morgenen.'
+      img: 'Er ist früh am Morgen aufgewacht.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Det var ganske mørkt, men han kunne se at strømpen hans var full av gaver.'
+      img: 'Es war ziemlich dunkel, aber er konnte sehen, dass sein Strumpf voller Geschenke war.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vi skal på camping med familien vår.'
+      img: 'Wir gehen mit unserer Familie campen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det er en lang kjøretur.'
+      img: 'Es ist eine lange Fahrt.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Endelig kom vi til campingplassen.'
+      img: 'Endlich sind wir auf dem Campingplatz angekommen.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det var på et jorde, ved siden av en liten skog.'
+      img: 'Es war auf einem Feld neben einem kleinen Wald.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Tom hjalp til med å losse bilen.'
+      img: 'Tom hat geholfen, das Auto auszuladen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Å sette opp teltene var først et puslespill.'
+      img: 'Das Aufstellen der Zelte war zunächst ein Rätsel.'
     }
   ]
 

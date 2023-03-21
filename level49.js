@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Vi har hatt eventyr.'
+      img: 'Wir haben Abenteuer erlebt.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mamma kunne ikke få leirovnen til å fungere.'
+      img: 'Mama konnte den Campingkocher nicht zum Laufen bringen.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Vi må nøye oss med en kald frokost.'
+      img: 'Wir werden uns mit einem kalten Frühstück begnügen müssen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Pappa kom for å se hva som var galt.'
+      img: 'Dad kam, um zu sehen, was los war.'
     },
     /* {
       name: '5',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Kom og bli med oss.'
+      img: 'Komm und mach mit.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Snart duftet det deilig av pølser og bacon.'
+      img: 'Bald roch es herrlich nach Würstchen und Speck.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det var mye for alle.'
+      img: 'Es war genug für alle da.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Jeg elsker camping.'
+      img: 'Ich liebe Zelten.'
     },
     /* {
       name: '10',
