@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ella le preguntó a Papá Noel.'
+      img: 'She asked Father Christmas.'
     },
     {
       name: '5',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Så bra at de fortjener en liten gave å åpne når de kommer hjem.'
+      img: 'So gut dass sie ein Geschenk verdienen zu öffnen wenn sie nach Hause kommen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Han tok frem en gave til Tom fra en sekk.'
+      img: 'Er nahm ein Geschenk raus aus den Sack.'
     },
     {
       name: '8',

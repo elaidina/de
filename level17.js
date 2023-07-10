@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Wir nähern uns dem Wald..'
+      img: 'Wir nähern uns dem Wald.'
     },
     {
       name: '2',

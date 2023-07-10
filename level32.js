@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: '"Die Katze hat ein kleines Spielzeug.'
+      img: 'Die Katze hat ein kleines Spielzeug.'
     },
     {
       name: '11',

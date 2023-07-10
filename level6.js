@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Det lå under bordetEs war unter dem Tisch.'
+      img: 'Es war unter dem Tisch.'
     },
     {
       name: '4',

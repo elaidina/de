@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Als wir das neue Haus erreichten, fühlten wir uns elend.'
+      img: 'Als wir das neue Haus erreichten, fühlten wir uns schrecklich.'
     },
     {
       name: '4',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Det var så mye å gjøreEs gab so viel zu tun.'
+      img: 'Es gab so viel zu tun.'
     },
     {
       name: '10',

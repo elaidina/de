@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Es ist die beste Hütte aller Zeiten..'
+      img: 'Es ist die beste Hütte aller Zeiten.'
     },
     {
       name: '10',

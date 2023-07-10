@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ich möchte ein englisches Lied lernen..'
+      img: 'Ich möchte ein englisches Lied lernen.'
     },
     {
       name: '7',

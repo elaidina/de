@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Rydd opp i dette rommet, vær så snillRäumen Sie dieses Zimmer bitte auf.'
+      img: 'Räumen Sie dieses Zimmer bitte auf.'
     },
     {
       name: '2',

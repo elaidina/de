@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ich bin größer und dicker als er.'
+      img: 'Ich bin höher und größer als er.'
     },
     {
       name: '2',

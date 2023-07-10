@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Überall ist viel Wasser..'
+      img: 'Überall ist viel Wasser.'
     }
   ]
 
